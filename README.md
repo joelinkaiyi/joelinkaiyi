@@ -35,5 +35,4 @@
 ## 📫 How to Reach Me
 
 - **Email:** joelinkaiyi@gmail.com
-- **LinkedIn:** [[Joelinkaiyi](https://www.linkedin.com/in/joelinkaiyi)](https://www.linkedin.com/in/joelinkaiyi-dev/)
-- **Twitter:** [@joelinkaiyi](https://twitter.com/joelinkaiyi)
+- **LinkedIn:** [joelinkaiyi](https://www.linkedin.com/in/joelinkaiyi-dev/)
