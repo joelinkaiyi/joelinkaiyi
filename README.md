@@ -31,7 +31,7 @@
 
 ## 🌱 **Currently Learning**  
 - **Computer Vision** (OpenCV, image processing)  
-- **Mobile Development** (Swift, SwiftUI)  
+- **Mobile Development** 
 - **Exploring new web frameworks and libraries**  
 
 ---
