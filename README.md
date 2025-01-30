@@ -7,7 +7,7 @@
 ## 🔧 **Technologies & Tools**  
 
 ### **Languages:**  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![JavaScript]([https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic](https://github.com/voodootikigod/logo.js/blob/master/LICENSE))](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)](https://www.python.org/)  
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)](https://www.oracle.com/java/)  
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic)](https://cplusplus.com/)  
