@@ -1,6 +1,6 @@
 # **Joelinkaiyi**  
 
-🏫 a student at **National Kaohsiung University of Science and Technology**, majoring in **Electronic Engineering**.  
+🏫 A student at **National Kaohsiung University of Science and Technology**, majoring in **Electronic Engineering**.  
 
 ---
 
@@ -26,6 +26,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)](https://github.com/)  
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)](https://code.visualstudio.com/)   
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=plastic)](https://aws.amazon.com/)  
+[![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat-square)](https://azure.microsoft.com/)
 
 ---
 
