@@ -40,4 +40,4 @@
 
 📧 **Email:** [joelinkaiyi@gmail.com](mailto:joelinkaiyi@gmail.com)  
 💼 **LinkedIn:** [joelinkaiyi](https://www.linkedin.com/in/joelinkaiyi-dev/) 
-🌐 ** Personal website:** [joelinkaiyi](https://joelinkaiyi-profile.vercel.app/)
+🌐 **Personal website:** [joelinkaiyi](https://joelinkaiyi-profile.vercel.app/)
