@@ -1,6 +1,6 @@
 # **Joelinkaiyi**  
 
-🏫 A student at **National Kaohsiung University of Science and Technology**, majoring in **Electronic Engineering**.  
+🏫 A student at National Kaohsiung University of Science and Technology, Major in Electronic Engineering**.  
 
 ---
 
