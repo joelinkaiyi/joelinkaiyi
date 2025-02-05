@@ -35,10 +35,10 @@
 - **Exploring new web frameworks and libraries**  
 
 ---
-
-## 📫 **How to Reach Me**  
-
-🌐 **Personal website:** [joelinkaiyi](https://joelinkaiyi-profile.vercel.app/)  
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelinkaiyi&show_icons=true&theme=radical)
+---
+## 📫 **How to Reach Me** 
 📧 **Email:** [joelinkaiyi@gmail.com](mailto:joelinkaiyi@gmail.com)  
 💼 **LinkedIn:** [joelinkaiyi](https://www.linkedin.com/in/joelinkaiyi-dev/)  
 
