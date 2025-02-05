@@ -14,11 +14,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark)
 
 ### **Tools & Platforms:**  
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)](https://github.com/)  
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)](https://code.visualstudio.com/)   
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=plastic)](https://aws.amazon.com/)  
-
+![My Skills](https://skillicons.dev/icons?i=git,github,aws,azure,vscode&theme=dark)
 ---
 
 ## 🌱 **Currently Learning**  
