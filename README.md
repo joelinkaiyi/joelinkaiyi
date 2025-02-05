@@ -26,5 +26,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelinkaiyi&show_icons=true&theme=radical)
 --- 
 ## Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelinkaiyi&layout=compact&langs_count=6&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelinkaiyi&layout=compact)
+
 
