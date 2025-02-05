@@ -19,9 +19,7 @@
 ### Evaluation Boards
 ![My Skills](https://skillicons.dev/icons?i=arduino&theme=dark)
 ## 🌱 **Currently Learning**  
-- **Computer Vision** (OpenCV, image processing)  
-- **Mobile Development** 
-- **Exploring new web frameworks and libraries**  
+![My Skills](https://skillicons.dev/icons?i=opencv,reactnative,astro&theme=dark)
 
 ---
 ## Github Stats
