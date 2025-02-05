@@ -17,7 +17,7 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,aws,azure,vscode&theme=dark)
 ---
 ### Evaluation Boards
-![My Skills](https://skillicons.dev/icons?i=arduino-uno,arduino-nano&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=arduino&theme=dark)
 ## 🌱 **Currently Learning**  
 - **Computer Vision** (OpenCV, image processing)  
 - **Mobile Development** 
