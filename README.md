@@ -7,7 +7,7 @@
 ## 🔧 **Technologies & Tools**  
 
 ### **Languages:**  
-![My Skills](https://skillicons.dev/icons?i=c,cpp,php,js,python,rust&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,php,js,python,rust&theme=dark)
 
 
 ### **Web Development:**  
