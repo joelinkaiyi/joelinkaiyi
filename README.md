@@ -7,12 +7,8 @@
 ## 🔧 **Technologies & Tools**  
 
 ### **Languages:**  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)](https://www.oracle.com/java/)  
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic)](https://cplusplus.com/)  
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)](https://www.php.net/)  
-[![Verilog](https://img.shields.io/badge/-Verilog-CC2927?style=plastic)](https://standards.ieee.org/standard/1364-2005.html)  
+![My Skills](https://skillicons.dev/icons?i=cpp,verilog,js,python,rust,swift&theme=dark)
+
 
 ### **Web Development:**  
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
