@@ -7,15 +7,11 @@
 ## 🔧 **Technologies & Tools**  
 
 ### **Languages:**  
-![My Skills](https://skillicons.dev/icons?i=cpp,verilog,js,python,rust,swift&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=cpp,php,js,python,rust,swift&theme=dark)
 
 
 ### **Web Development:**  
-[![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic)](https://react.dev/)  
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)](https://nodejs.org/)  
-[![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic)](https://expressjs.com/)  
+![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark)
 
 ### **Tools & Platforms:**  
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)](https://git-scm.com/)  
