@@ -18,8 +18,8 @@
 ---
 ### Evaluation Boards
 ![My Skills](https://skillicons.dev/icons?i=arduino,esp32&theme=dark)
-## 🌱 **Currently Learning**  
-![My Skills](https://skillicons.dev/icons?i=opencv,raspberrypi&theme=dark)
+##  **Others**  
+![My Skills](https://skillicons.dev/icons?i=vscode,stackoverflow&theme=dark)
 
 ---
 ## Github Stats
