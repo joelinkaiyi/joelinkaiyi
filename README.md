@@ -7,19 +7,19 @@
 ## 🔧 **Technologies & Tools**  
 
 ### **Languages:**  
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,php,v,js,python,rust&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,php,v,js,python,go,rust,&theme=dark)
 
 
 ### **Web Development:**  
-![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,express,gin&theme=dark)
 
 ### **Tools & Platforms:**  
 ![My Skills](https://skillicons.dev/icons?i=git,github,aws,azure,vscode&theme=dark)
 ---
 ### Evaluation Boards
-![My Skills](https://skillicons.dev/icons?i=arduino&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=arduino,esp32&theme=dark)
 ## 🌱 **Currently Learning**  
-![My Skills](https://skillicons.dev/icons?i=opencv,raspberrypi,astro&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=opencv,raspberrypi&theme=dark)
 
 ---
 ## Github Stats
