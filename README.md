@@ -18,7 +18,7 @@
 ---
 ### Evaluation Boards
 ![My Skills](https://skillicons.dev/icons?i=arduino,esp32&theme=dark)
-##  **Others**  
+##  **Tools**  
 ![My Skills](https://skillicons.dev/icons?i=vscode,stackoverflow&theme=dark)
 
 ---
