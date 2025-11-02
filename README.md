@@ -10,10 +10,10 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,php,v,js,python,go,rust&theme=dark" alt="Languages" />
 
 ### **Web Development:**
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,postgres&theme=dark" alt="Web Development" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" alt="Web Development" />
 
 ### **Tools & Platforms:**
-<img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode&theme=dark" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,azure&theme=dark" alt="Tools & Platforms" />
 
 ---
 
@@ -24,8 +24,16 @@
 <img src="https://skillicons.dev/icons?i=vscode,stackoverflow&theme=dark" alt="Tools" />
 
 ---
+### **Package Manager**
+<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark" alt="Package Manager" />
+
+---
 ### **OS**
 <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark" alt="OS" />
+
+---
+### **Social Media**
+<img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark" alt="Social Media" />
 
 ---
 ### **Others**
