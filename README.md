@@ -29,6 +29,7 @@
 ---
 ### **Others**
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="Others" />
+---
 ## **Github Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=joelinkaiyi&show_icons=true&theme=radical" alt="GitHub Stats" />
 
