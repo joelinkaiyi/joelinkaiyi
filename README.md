@@ -13,15 +13,12 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" alt="Web Development" />
 
 ### **Tools & Platforms:**
-<img src="https://skillicons.dev/icons?i=git,github,aws,azure&theme=dark" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,stackoverflow,postman&theme=dark" alt="Tools & Platforms" />
 
 ---
 
 ### **Evaluation Boards**
 <img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" alt="Evaluation Boards" />
-
-### **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,stackoverflow,postman&theme=dark" alt="Tools" />
 
 ---
 ### **Package Manager**
