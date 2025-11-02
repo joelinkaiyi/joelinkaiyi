@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" alt="Evaluation Boards" />
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,stackoverflow&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,stackoverflow,postman&theme=dark" alt="Tools" />
 
 ---
 ### **Package Manager**
@@ -29,7 +29,7 @@
 
 ---
 ### **OS**
-<img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark" alt="OS" />
+<img src="https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark" alt="OS" />
 
 ---
 ### **Social Media**
