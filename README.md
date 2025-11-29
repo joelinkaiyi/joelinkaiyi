@@ -15,17 +15,17 @@ Thanks for watching — it means a lot!
 
 ## Profile
 
-- 🎓 Student at **National Kaohsiung University of Science and Technology (NKUST)**
-- 💻 Focus: **Web Dev, System Programming, AI Tools**
-- ⚔ Constant practice to sharpen engineering mindset  
-- 🚀 Building toward full-stack + system-level mastery  
+- Student at **National Kaohsiung University of Science and Technology (NKUST)**
+- Focus: **Web Dev, System Programming, AI Tools, Medicial Engineering, Electronic Engineering**
+- Constant practice to sharpen engineering mindset  
+- Building toward full-stack + system-level mastery  
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-![langs](https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark)
+![langs](https://skillicons.dev/icons?i=c,cpp,java,php,verilog,python,js,go,rust&theme=dark)
 
 **Web Dev**  
 ![web](https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark)
