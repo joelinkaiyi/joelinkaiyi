@@ -1,10 +1,10 @@
-<!-- MAIN FLEX CONTAINER -->
+<!-- MAIN LAYOUT: LEFT DASHBOARD + RIGHT CHARACTER -->
 <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 20px;">
 
-<!-- ================= LEFT SIDE (DASHBOARD) ================= -->
-<div style="flex: 1; min-width: 430px;">
+<!-- LEFT PANEL -->
+<div style="flex: 1; min-width: 480px;">
 
-## ⚔️ joelinkaiyi  
+# ⚔️ joelinkaiyi  
 ### *“Practices makes perfect.”*
 
 Always grinding — sometimes solo, sometimes with the crew.  
@@ -17,7 +17,7 @@ Thanks for watching — it means a lot!
 ## 📂 Profile
 
 - 🎓 Student at **National Kaohsiung University of Science and Technology (NKUST)**
-- 🖥️ Focus: **Web Dev, System Programming, AI Tools**
+- 💻 Focus: **Web Dev, System Programming, AI Tools**
 - ⚔ Constant practice to sharpen engineering mindset
 - 🚀 Building toward full-stack + system-level mastery
 
@@ -25,29 +25,29 @@ Thanks for watching — it means a lot!
 
 ## 🛠 Tech Stack
 
-**Languages**  
+### Languages  
 <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark" />
 
-**Web Dev**  
+### Web Dev  
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" />
 
-**Platforms & Tools**  
+### Platforms & Tools  
 <img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,postman,stackoverflow&theme=dark" />
 
-**Boards**  
+### Boards  
 <img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" />
 
-**Package Managers**  
+### Package Managers  
 <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark" />
 
-**Operating Systems**  
+### Operating Systems  
 <img src="https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark" />
 
 ---
 
 ## 🟣 GitHub Summary Cards
 
->（⚠️ 一旦 GitHub Action 產出 SVG，這五張就會自動顯示）
+> 你 GitHub Actions 自動生成後會自動顯示
 
 <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
@@ -57,30 +57,28 @@ Thanks for watching — it means a lot!
 
 ---
 
-## 📈 Contribution Graph
-
+## 🟪 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true&color=bb86fc&line=bb86fc&point=ffffff" />
 
 ---
 
 ## 🌐 Social
-
 <img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark" />
 
 ---
 
 ## ⚡ Philosophy
 > “Practices makes perfect.”  
-> Level up, one commit at a time.
+Level up, one commit at a time.
 
 </div>
 
-<!-- ================= RIGHT SIDE (IMAGE) ================= -->
-<div style="flex: 1; text-align: right;">
+<!-- RIGHT SIDE CHARACTER ART -->
+<div style="flex: 0.6; text-align: right;">
 
-<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/law.jpg"
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/law.png"
      alt="law"
-     style="width: 100%; max-width: 480px; border-radius: 6px;" />
+     style="max-width: 100%; height: auto; margin-top: 20px;" />
 
 </div>
 
