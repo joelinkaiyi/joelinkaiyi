@@ -1,5 +1,5 @@
 <!-- Right-side big character -->
-<img align="right" src="luffys-mighty-gear-5.jpg" width="420"/>
+<img align="right" src="luffy-5.png" width="420"/>
 
 # joelinkaiyi
 
