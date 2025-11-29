@@ -42,16 +42,7 @@ Thanks for watching — it means a lot!
 **Operating Systems**  
 ![os](https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark)
 
----
 
-## 🟣 GitHub Summary Cards  
-（自動生成 by GitHub Actions）
-
-<img src="profile-summary-card-output/nord_dark/0-profile-details.svg"/>
-<img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>
-<img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
-<img src="profile-summary-card-output/nord_dark/3-stats.svg"/>
-<img src="profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 
 ---
 
