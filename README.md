@@ -1,78 +1,87 @@
-<!-- RIGHT SIDE ART -->
-<img align="right" width="420" src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/osaragi.jpg" />
+<!-- MAIN FLEX CONTAINER -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 20px;">
 
-# ⚔️ joelinkaiyi
+<!-- ================= LEFT SIDE (DASHBOARD) ================= -->
+<div style="flex: 1; min-width: 430px;">
 
-**“Practices makes perfect.”**
+## ⚔️ joelinkaiyi  
+### *“Practices makes perfect.”*
 
 Always grinding — sometimes solo, sometimes with the crew.  
 Coding daily — shipping tools, apps, and ideas that grow in silence.  
 Not for the streak, but for the vision.  
-
 Thanks for watching — it means a lot!
 
 ---
 
-# 📂 Profile
+## 📂 Profile
 
 - 🎓 Student at **National Kaohsiung University of Science and Technology (NKUST)**
-- 💻 Focus: **Web Dev, System Programming, AI Tools**
+- 🖥️ Focus: **Web Dev, System Programming, AI Tools**
 - ⚔ Constant practice to sharpen engineering mindset
 - 🚀 Building toward full-stack + system-level mastery
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### **Languages**  
+**Languages**  
 <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark" />
 
-### **Web Dev**  
+**Web Dev**  
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" />
 
-### **Platforms & Tools**  
+**Platforms & Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,postman,stackoverflow&theme=dark" />
 
-### **Boards**  
+**Boards**  
 <img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" />
 
-### **Package Managers**  
+**Package Managers**  
 <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark" />
 
-### **Operating Systems**  
+**Operating Systems**  
 <img src="https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark" />
 
 ---
 
-# 📊 GitHub Summary Cards
+## 🟣 GitHub Summary Cards
 
-<p>
-  <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" />
-</p>
+>（⚠️ 一旦 GitHub Action 產出 SVG，這五張就會自動顯示）
 
-<p>
-  <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="49%" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/3-stats.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="49%" />
-</p>
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
 
 ---
 
-# 🟣 Contribution Graph
+## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true&color=bb86fc&line=bb86fc&point=ffffff" />
 
 ---
 
-# 🌐 Social  
+## 🌐 Social
+
 <img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark" />
 
 ---
 
-# ⚡ Philosophy  
+## ⚡ Philosophy
 > “Practices makes perfect.”  
 > Level up, one commit at a time.
+
+</div>
+
+<!-- ================= RIGHT SIDE (IMAGE) ================= -->
+<div style="flex: 1; text-align: right;">
+
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/law.jpg"
+     alt="law"
+     style="width: 100%; max-width: 480px; border-radius: 6px;" />
+
+</div>
+
+</div>
