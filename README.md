@@ -1,6 +1,7 @@
 <!-- Right-side big character -->
+<p align="center" style="background:#000000;">
 <img align="right" src="luffy5.png" width="420"/>
-
+</p>
 # joelinkaiyi
 
 > **“Practices makes perfect.”**
