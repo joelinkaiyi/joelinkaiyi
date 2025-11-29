@@ -1,39 +1,54 @@
 <div align="center">
-<h3><i>"Always grinding — turning coffee into code & logic circuits."</i></h3>
-<p>Building secure systems and scalable backends.<br/>Exploring the world of <b>Electronic Engineering</b> & <b>Digital IC Design</b>.</p>
-<br/>
-<table>
-<tr>
-<td valign="top" width="60%">
-<h1>Hi, I'm Kai (Joelinkaiyi) 👋</h1>
-<h3>🛠 Tech Stack</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=go,react,nextjs,ts,js,python,c,cpp&theme=dark" alt="Languages" />
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,git,docker,aws,postgres,arduino,raspberrypi&theme=dark" alt="Tools" />
-</p>
-<hr/>
-<h3>📊 GitHub Stats</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=joelinkaiyi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="Stats" width="100%" />
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelinkaiyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Langs" width="100%" />
-</p>
-</td>
-<td valign="center" width="40%">
-<div align="center">
-<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/osaragi.jpg" alt="Osaragi" style="width: 100%; border-radius: 10px;" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joelinkaiyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Wakatime" />
-</div>
-</td>
-</tr>
-</table>
-<h3>📅 Contributions</h3>
-<img src="https://ghchart.rshah.org/70a5fd/joelinkaiyi" alt="Contribution Chart" width="100%" />
-<br/><br/>
-<p align="center">
-<a href="https://github.com/joelinkaiyi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+
+  <h3>
+    <i>"Always grinding — sometimes solo, sometimes with the crew. Shipping ideas that grow in silence."</i>
+  </h3>
+  <p>
+    🏫 <b>National Kaohsiung University of Science and Technology</b><br/>
+    🎓 Major in <b>Electronic Engineering</b>
+  </p>
+
+  <br/>
+
+  <table border="0">
+    <tr>
+      <td valign="top" width="60%" align="left">
+        
+        <h3>🛠 Tech Stack</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,rust,js,react,nextjs,nodejs&theme=dark" alt="Languages & Web" /><br/>
+          <img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,linux,arduino,esp32&theme=dark" alt="Tools & Hardware" />
+        </p>
+
+        <h3>📊 GitHub Stats</h3>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api?username=joelinkaiyi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" width="100%" />
+        </p>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelinkaiyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="100%" />
+        </p>
+      </td>
+
+      <td valign="center" width="40%" align="center">
+        
+        <img src="https://i.pinimg.com/originals/83/60/1e/83601e0c098fa2233914eb801dd1cb93.png" alt="Character Art" width="100%" style="max-width: 350px;" />
+        
+        <br/><br/>
+
+        </td>
+    </tr>
+  </table>
+
+  <h3>📅 Contributions Calendar</h3>
+  <img src="https://ghchart.rshah.org/70a5fd/joelinkaiyi" alt="Joelinkaiyi's Github Chart" width="100%" />
+
+  <br/><br/>
+
+  <p>
+    <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="30"/></a>
+    <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="30"/></a>
+    <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="30"/></a>
+    <a href="https://linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30"/></a>
+  </p>
+
 </div>
