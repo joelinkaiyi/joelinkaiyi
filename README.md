@@ -25,7 +25,7 @@ Thanks for watching — it means a lot!
 ## Tech Stack
 
 **Languages**  
-![langs](https://skillicons.dev/icons?i=c,cpp,java,php,verilog,python,js,go,rust&theme=dark)
+![langs](https://skillicons.dev/icons?i=c,cpp,java,php,v,python,js,go,rust&theme=dark)
 
 **Web Dev**  
 ![web](https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark)
