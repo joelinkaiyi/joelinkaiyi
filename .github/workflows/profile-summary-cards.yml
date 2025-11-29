@@ -19,4 +19,3 @@ jobs:
           USERNAME: joelinkaiyi
           BRANCH_NAME: main
           UTC_OFFSET: 8
-          THEME: nord_dark
