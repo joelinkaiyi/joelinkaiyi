@@ -1,7 +1,7 @@
 <!-- Right-side big character -->
 <img align="right" src="law.png" width="420"/>
 
-# ⚔️ joelinkaiyi
+# joelinkaiyi
 
 > **“Practices makes perfect.”**
 
@@ -13,7 +13,7 @@ Thanks for watching — it means a lot!
 
 ---
 
-## 🧩 Profile
+## Profile
 
 - 🎓 Student at **National Kaohsiung University of Science and Technology (NKUST)**
 - 💻 Focus: **Web Dev, System Programming, AI Tools**
@@ -22,7 +22,7 @@ Thanks for watching — it means a lot!
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**  
 ![langs](https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark)
@@ -46,16 +46,25 @@ Thanks for watching — it means a lot!
 
 ---
 
-## 🟪 Contribution Graph  
+## Contribution Graph  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true"/>
+---
+
+## GitHub Summary Cards  
+
+<img src="profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>
+<img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+<img src="profile-summary-card-output/nord_dark/3-stats.svg"/>
+<img src="profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 
 ---
 
-## 🌐 Social  
+## Social  
 ![social](https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark)
 
 ---
 
-## ⚡ Philosophy  
+## Philosophy  
 > “Practices makes perfect.”  
 > Level up, one commit at a time.
