@@ -1,5 +1,5 @@
 <!-- Right-side big character -->
-<p align="center" style="background:#000000;">
+<p align="center" style="background:#0D1117;">
 <img align="right" src="luffy5.png" width="500"/>
 </p>
 # joelinkaiyi
