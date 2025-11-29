@@ -1,98 +1,75 @@
-<table>
-  <tr>
+<!-- RIGHT SIDE IMAGE -->
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/osaragi.jpg" 
+     alt="osaragi" 
+     width="350" 
+     align="right" 
+     style="border-radius: 12px;" />
 
-  <td width="60%" valign="top">
+# ⚔️ joelinkaiyi
 
-   <h1>⚔️ joelinkaiyi</h1>
-      <h3><em>“Practices makes perfect.”</em></h3>
+### *“Practices makes perfect.”*
 
-  <p>
-        Always grinding — sometimes solo, sometimes with the crew.<br/>
-        Coding daily — shipping tools, apps, and ideas that grow in silence.<br/>
-        Not for the streak, but for the vision.<br/><br/>
-        Thanks for watching — it means a lot!
-      </p>
+Always grinding — sometimes solo, sometimes with the crew.  
+Coding daily — shipping tools, apps, and ideas that grow in silence.  
+Not for the streak, but for the vision.
 
-   <hr/>
+Thanks for watching — it means a lot!
 
-  <h3>📂 Profile</h3>
-      <ul>
-        <li>🎓 Student at <strong>National Kaohsiung University of Science and Technology (NKUST)</strong></li>
-        <li>💻 Focus: <strong>Web Dev, System Programming, AI Tools</strong></li>
-        <li>⚔️ Constant practice to sharpen engineering mindset</li>
-        <li>🚀 Building toward full-stack + system-level mastery</li>
-      </ul>
+---
 
-   <hr/>
+## 📂 Profile
 
-  <h3>🛠 Tech Stack</h3>
+- 🎓 Student at **National Kaohsiung University of Science and Technology (NKUST)**
+- 💻 Focus: **Web Dev, System Programming, AI Tools**
+- ⚔️ Constant practice to sharpen engineering mindset
+- 🚀 Building toward full-stack + system-level mastery
 
-  <strong>Languages</strong><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark" />
+---
 
-  <br/><br/>
+## 🛠 Tech Stack
 
-  <strong>Web Dev</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" />
+### **Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark" />
 
-  <br/><br/>
+### **Web Dev**  
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" />
 
-  <strong>Platforms &amp; Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,postman,stackoverflow&theme=dark" />
+### **Platforms & Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,postman,stackoverflow&theme=dark" />
 
-   <br/><br/>
+### **Boards**  
+<img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" />
 
-   <strong>Boards</strong><br/>
-      <img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" />
+### **Package Managers**  
+<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark" />
 
-   <br/><br/>
+### **Operating Systems**  
+<img src="https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark" />
 
-  <strong>Package Managers</strong><br/>
-      <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark" />
+---
 
-   <br/><br/>
+## 🟣 GitHub Summary Cards
 
-   <strong>Operating Systems</strong><br/>
-      <img src="https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark" />
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 
-   <hr/>
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
 
-   <h3>📊 GitHub Summary Cards</h3>
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
 
-  <p>
-        <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-        <br/><br/>
-        <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
-        <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
-        <br/><br/>
-        <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/3-stats.svg" />
-        <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
-      </p>
+---
 
-  <hr/>
+## 🟣 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true&color=bb86fc&line=bb86fc&point=ffffff" />
 
-   <h3>🟣 Contribution Graph</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true&color=bb86fc&line=bb86fc&point=ffffff" />
+---
 
-  <hr/>
+## 🌐 Social  
+<img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark" />
 
-  <h3>🌐 Social</h3>
-      <img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark" />
+---
 
-   <hr/>
-
-   <h3>⚡ Philosophy</h3>
-      <blockquote>
-        “Practices makes perfect.”<br/>
-        Level up, one commit at a time.
-      </blockquote>
-
-  </td>
-
-  <td width="40%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/osaragi.jpg"
-           alt="osaragi"
-           style="max-width: 100%; border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+## ⚡ Philosophy  
+> “Practices makes perfect.”  
+> Level up, one commit at a time.
