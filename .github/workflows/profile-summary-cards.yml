@@ -1,0 +1,18 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 00:00 自動更新
+  workflow_dispatch:       # 也可以手動在 Actions 觸發
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: joelinkaiyi
+          THEME: nord_dark   # 黑+紫冷色系主題
