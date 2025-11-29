@@ -1,77 +1,80 @@
-<!-- Hero Section -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+<!-- LEFT + RIGHT LAYOUT -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 20px;">
 
-  <!-- Left Side Content -->
-  <div style="flex: 1;">
+<!-- LEFT SIDE -->
+<div style="flex: 1; min-width: 360px;">
 
-  <h1 align="left">⚔️ joelinkaiyi</h1>
-  <h3 align="left"><em>“Practices makes perfect.”</em></h3>
+# ⚔️ joelinkaiyi
+### *“Practices makes perfect.”*
 
-  <p>
-  Always learning — sometimes solo, sometimes with the crew.<br>
-  I code daily — shipping tools, apps, and ideas that grow in silence.<br>
-  Thanks for watching — it means a lot! 
-  </p>
+Always grinding — sometimes solo, sometimes with the crew.  
+Coding daily — shipping tools, apps, and ideas that grow in silence.  
+Not for the streak, but for the vision.
 
-  ---
+Thanks for watching — it means a lot!
 
-  ## 👤 Profile
-  - 🎓 Student at **National Kaohsiung University of Science and Technology (NKUST)**
-  - 💻 Focus on **Web Development • System Programming • AI Tools**
-  - ⚔️ Constantly sharpening engineering skills through projects
-  - 🚀 Striving to become a strong full-stack & system-level engineer
+---
 
-  ---
+## 💫 Profile
+- 🎓 Student at **National Kaohsiung University of Science and Technology (NKUST)**
+- 💻 Focus: **Web Dev, System Programming, AI Tools**
+- ⚔ Constant practice to sharpen engineering mindset  
+- 🚀 Building toward full-stack + system-level mastery
 
-  ## 🧰 Tech Stack
+---
 
-  ### **Languages**
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark" />
+## 🛠 Tech Stack
 
-  ### **Web Development**
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" />
+### **Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php,python,js,go,rust&theme=dark" />
 
-  ### **Tools & Platforms**
-  <img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,postman,stackoverflow&theme=dark" />
+### **Web Dev**
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postgres&theme=dark" />
 
-  ### **Boards**
-  <img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" />
+### **Platforms & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode,postman,stackoverflow&theme=dark" />
 
-  ### **Package Managers**
-  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark" />
+### **Boards**
+<img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark" />
 
-  ### **Operating Systems**
-  <img src="https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark" />
+### **Package Managers**
+<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark" />
 
-  ---
+### **Operating Systems**
+<img src="https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark" />
 
-  ## 📊 GitHub Stats (Dark Purple)
+---
 
-  <p align="left">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=joelinkaiyi&show_icons=true&theme=radical&hide_border=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelinkaiyi&layout=compact&theme=radical&hide_border=true" />
-  </p>
+## 📊 GitHub Analytics
 
-  ---
+### 🔮 Stats Overview
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joelinkaiyi&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelinkaiyi&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-  ## 🟣 Contribution Activity
+### 🟣 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true&color=bb86fc&line=bb86fc&point=ffffff" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true&color=bb86fc&line=bb86fc&point=ffffff" />
+---
 
-  ---
+## 🌐 Social
+<img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark" />
 
-  ## 🌐 Social Media
-  <img src="https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark" />
+---
 
-  ---
+## ⚡ Philosophy
+> **“Practices makes perfect.”**  
+Level up, one commit at a time.
 
-  ## ⚡ Quote
-  <strong>“Practices makes perfect.”</strong>
+</div>
 
-  </div>
+<!-- RIGHT SIDE: CHARACTER IMAGE -->
+<div style="flex: 1; text-align: right;">
 
-  <!-- Right Side Anime Art -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://i.imgur.com/V4vFQH3.png" width="420px" />
-  </div>
+<img src="https://raw.githubusercontent.com/joelinkaiyi/joelinkaiyi/main/osaragi.jpg" 
+     style="width: 430px; border-radius: 8px;" />
+
+</div>
+
 </div>
