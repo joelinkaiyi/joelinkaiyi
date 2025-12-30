@@ -52,17 +52,6 @@ Thanks for watching — it means a lot!
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelinkaiyi&theme=react-dark&hide_border=true&area=true"/>
 ---
 
-## GitHub Summary Cards  
-
-<img src="profile-summary-card-output/nord_dark/0-profile-details.svg"/>
-<img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>
-<img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
-<img src="profile-summary-card-output/nord_dark/3-stats.svg"/>
-<img src="profile-summary-card-output/nord_dark/4-productive-time.svg"/>
-
-
----
-
 ## Social  
 ![social](https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark)
 
