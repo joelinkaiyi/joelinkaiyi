@@ -5,15 +5,6 @@
 
 # Kylin
 
-> **“Practices makes perfect.”**
-
-Always grinding — sometimes solo, sometimes with the crew.  
-Coding daily — shipping tools, apps, and ideas that grow in silence.  
-Not for the streak, but for the vision.
-
-Thanks for watching — it means a lot!
-
----
 
 ## Profile
 
@@ -39,7 +30,7 @@ Thanks for watching — it means a lot!
 ![boards](https://skillicons.dev/icons?i=arduino,esp32&theme=dark)
 
 **Package Managers**  
-![pkg](https://skillicons.dev/icons?i=npm,yarn,pnpm&theme=dark)
+![pkg](https://skillicons.dev/icons?i=npm,yarn,pnpm,bun&theme=dark)
 
 **Operating Systems**  
 ![os](https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark)
@@ -57,7 +48,3 @@ Thanks for watching — it means a lot!
 ![social](https://skillicons.dev/icons?i=instagram,discord,twitter,linkedin&theme=dark)
 
 ---
-
-## Philosophy  
-> “Practices makes perfect.”  
-> Level up, one commit at a time.
