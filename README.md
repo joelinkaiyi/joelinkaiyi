@@ -35,7 +35,8 @@
 **Operating Systems**  
 ![os](https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,arch&theme=dark)
 
-
+**ML & Computer Vision**
+![ml](https://skillicons.dev/icons?=tesnorflow,pytorch.opencv&theme=dark)
 
 ---
 
